@@ -1,4 +1,4 @@
-class 
+class Shoe
   attr_accessor :brand
   def initialized (brand)
     @brand = brand
