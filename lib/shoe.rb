@@ -1,5 +1,6 @@
 class 
-  attr_accessor :brand :color :size :material :condition
-  def initialized 
+  attr_accessor :brand
+  def initialized (brand)
+    @brand = brand
   end
 end
