@@ -1,3 +1,3 @@
 class Shoes
-  def initi
+  def initialized 
 end
